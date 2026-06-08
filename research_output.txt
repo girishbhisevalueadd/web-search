@@ -1,0 +1,43 @@
+QUERY: give me list of peer companies of ValueAdd Research And Analytics LLP
+
+# Peer Companies of ValueAdd Research and Analytics Solutions LLP
+
+ValueAdd Research and Analytics Solutions LLP (founded 2015, headquartered in Thane/Mumbai, India, with a New York office) is a research and analytics outsourcing (KPO) firm offering capital markets research — investment banking, equity, and fixed‑income/credit research — as well as business strategy and consulting research to global buy‑side and sell‑side clients [https://in.linkedin.com/company/valueadd-research-&-analytics-solutions]. Based on the evidence, its peer/competitor companies fall into two groups.
+
+## Competitors named by YNOS (closest peer set)
+According to YNOS, possible competitors of ValueAdd include [https://www.ynos.in/startup/valueadd-research-and-analytics-solutions-315855]:
+
+1. **Beehive Capital** (founded 2012)
+2. **Brandessence Market Research and Consulting** (founded 2017) — market research and consulting
+3. **Basic Roots** (founded 2017)
+4. Plus **7 others** not individually named in the available evidence.
+
+These are presented as the most directly comparable startups/companies in the research and consulting space.
+
+## Similar companies listed by LinkedIn
+LinkedIn's "Similar Companies" section for ValueAdd lists the following firms — primarily financial services, investment management, and consulting players, mostly in Maharashtra, India [https://in.linkedin.com/company/valueadd-research-&-analytics-solutions]:
+
+1. **Tirthan Capital** — Investment Management (Pune, Maharashtra)
+2. **Systematix Group** — Financial Services (Mumbai, Maharashtra)
+3. **Equirus** — Financial Services (Mumbai, Maharashtra)
+4. **Ambit Private Limited** — Financial Services (Mumbai, Maharashtra)
+5. **Purnartha PMS** — Financial Services (Pune, Maharashtra)
+6. **Axience** — Business Consulting and Services (Mumbai, Maharashtra)
+7. **Dalal Street Investment Journal** — Investment Advice (Pune, Maharashtra)
+8. **Rezolve AddVenture – Pune** — IT Services and IT Consulting (Pune, Maharashtra)
+9. **Atrivo** — IT Services and IT Consulting (Danderyd, Stockholm County, Sweden)
+10. **Dr. Mylissa's Medical Boutique** — Medical Practices (Delray Beach, Florida) — *note: this appears to be an unrelated outlier in the LinkedIn list rather than a true peer.*
+
+## Additional context
+- On Glassdoor, ValueAdd is categorized within the **Management & Consulting** industry, and the page surfaces firms such as **S&P Global** and **AlphaSights** as comparison companies for compensation and benefits — broadly relevant to the research/analytics space, though shown in a "top companies near you" context rather than as direct competitors [https://www.glassdoor.com/Reviews/ValueAdd-India-Reviews-E3046235.htm].
+- The founder, Girish Bhise, previously worked at research/analytics and financial firms including **Morgan Stanley, Capgemini, Sutherland Global, Moody's Analytics, and Aranca** — Aranca in particular is a comparable research-outsourcing peer, mentioned as part of his background [https://www.greatcompanies.in/post/girish-bhise-founder-and-ceo-at-valueadd-research-and-analytics-solutions-llp].
+
+## Important caveats
+- Several other sources carrying the "ValueAdd" name in the evidence are **unrelated entities** (e.g., Value Add Real Estate Solutions, Value Add VC, ValueAdd UK R&D tax specialists, valueADD Austria M&A advisory, Value Add Network CRE, Value Add Management Consultants) and should **not** be treated as peers of ValueAdd Research and Analytics Solutions LLP.
+- The most reliable, directly-labeled "competitor" data comes from YNOS (Beehive Capital, Brandessence Market Research and Consulting, Basic Roots, and 7 others), while the LinkedIn list reflects algorithmically "similar" pages rather than confirmed competitors.
+
+## Sources
+1. https://in.linkedin.com/company/valueadd-research-&-analytics-solutions
+2. https://www.ynos.in/startup/valueadd-research-and-analytics-solutions-315855
+3. https://www.glassdoor.com/Reviews/ValueAdd-India-Reviews-E3046235.htm
+4. https://www.greatcompanies.in/post/girish-bhise-founder-and-ceo-at-valueadd-research-and-analytics-solutions-llp
