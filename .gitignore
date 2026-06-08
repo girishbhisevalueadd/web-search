@@ -1,0 +1,5 @@
+/langenv
+/.env
+/__pycache__
+/*.png
+/.pdf

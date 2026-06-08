@@ -1,0 +1,98 @@
+
+=== OPENAI (native web_search) ===
+
+1. ARES & CO
+2. Style Analytics
+3. Moody's Corporation (MCO)
+4. S&P Global Inc. (SPGI)
+5. MSCI Inc. (MSCI)
+6. FactSet Research Systems Inc. (FDS)
+7. Thomson Reuters Corporation (TRI)
+8. RELX Plc (RELX)
+9. Verisk Analytics Inc. (VRSK)
+
+------------------------------------
+
+=== ANTHROPIC (native web_search) ===
+
+1. Novus Insights Private Limited
+2. Maxim Research Private Limited
+3. Pure Research Private Limited
+4. Cresco Research
+5. Singletrack
+6. Barrington Research Associates
+
+-----------------------------------
+
+=== DUCKDUCKGO ===
+
+1. Fractal Analytics
+2. UST
+3. ValueLabs
+4. Fuld
+
+-------------------------------------
+
+=== EXA ===
+
+1. Concentric Analytics
+2. Mindcog
+3. DNA Consult
+4. Eklavya Analytics
+5. KRG Strategy Consultants Pvt. Ltd.
+6. Intueri Consulting
+
+--------------------------------------
+
+=== SERPER-DEV ===
+
+1. Beehive Capital
+2. Brandessence Market Research And Consulting
+3. Basic Roots
+
+---------------------------------------
+
+=== SERPSTACK ===
+
+1. Evalueserve
+2. CRISIL Global Research & Analytics
+3. Aranca
+4. Grail Insights
+5. Sutherland Global Services
+6. Genpact
+7. Mu Sigma
+
+---------------------------------------
+
+=== TAVILY ===
+
+1. Indian School of Business
+2. Systech Solutions
+3. Tirthan Capital
+4. Systematix Group
+5. Equirus
+6. Rezolve AddVenture - Pune
+7. Dalal Street Investment Journal
+8. Ambit Private Limited
+9. Purnartha PMS
+10. Atrivo
+11. Axience
+
+---------------------------------------
+
+=== ZENSERP ===
+
+1. Moody's Analytics
+2. Capgemini
+3. Sutherland Global
+4. Deutsche Bank
+5. Credit Suisse
+6. JP Morgan
+7. HSBC
+
+---------------------------------------
+
+=== FIRECRAWL ===
+I wasn't able to find specific information about peer companies or competitors of ValueAdd Research And Analytics LLP. You might want to consider looking into the industry they operate in, such as financial research and analytics, to identify similar companies. If you have more specific details about their services or market, I can help refine the search further.
+
+--------------------------------------
