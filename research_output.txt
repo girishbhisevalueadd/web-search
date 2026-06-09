@@ -1,43 +1,75 @@
-QUERY: give me list of peer companies of ValueAdd Research And Analytics LLP
+QUERY: Give me list of peer companies of ValueAdd Research And Analytics Solutions LLP
 
 # Peer Companies of ValueAdd Research and Analytics Solutions LLP
 
-ValueAdd Research and Analytics Solutions LLP (founded 2015, headquartered in Thane/Mumbai, India, with a New York office) is a research and analytics outsourcing (KPO) firm offering capital markets research — investment banking, equity, and fixed‑income/credit research — as well as business strategy and consulting research to global buy‑side and sell‑side clients [https://in.linkedin.com/company/valueadd-research-&-analytics-solutions]. Based on the evidence, its peer/competitor companies fall into two groups.
+ValueAdd Research and Analytics Solutions LLP is a Thane/Mumbai-based (with a New York office) research and analytics solutions provider founded in 2015. It offers capital-markets research (investment banking research, equity research, fixed income & credit research) and business strategy/consulting research (industry analysis, market research, competitor benchmarking, M&A research, due diligence, primary surveys), and is increasingly pivoting toward a "Research + AI" model (https://in.linkedin.com/company/valueadd-research-&-analytics-solutions; https://www.greatcompanies.in/post/girish-bhise-founder-and-ceo-at-valueadd-research-and-analytics-solutions-llp). It operates in the Knowledge Process Outsourcing (KPO) / financial research outsourcing space (https://www.ambitionbox.com/overview/valueadd-research-and-analytics-solutions-overview).
 
-## Competitors named by YNOS (closest peer set)
-According to YNOS, possible competitors of ValueAdd include [https://www.ynos.in/startup/valueadd-research-and-analytics-solutions-315855]:
+Below is a consolidated list of peer/competitor companies, grouped by how the evidence identifies them.
 
-1. **Beehive Capital** (founded 2012)
-2. **Brandessence Market Research and Consulting** (founded 2017) — market research and consulting
-3. **Basic Roots** (founded 2017)
-4. Plus **7 others** not individually named in the available evidence.
+## 1. Peers Named by LinkedIn ("Similar Companies")
+LinkedIn's "Similar Companies" listing for ValueAdd (https://in.linkedin.com/company/valueadd-research-&-analytics-solutions) includes:
 
-These are presented as the most directly comparable startups/companies in the research and consulting space.
+- **Tirthan Capital** – Investment Management (Pune, Maharashtra)
+- **Systematix Group** – Financial Services (Mumbai, Maharashtra)
+- **Equirus** – Financial Services (Mumbai, Maharashtra)
+- **Rezolve AddVenture – Pune** – IT Services and IT Consulting (Pune)
+- **Dalal Street Investment Journal** – Investment Advice (Pune)
+- **Ambit Private Limited** – Financial Services (Mumbai)
+- **Purnartha PMS** – Financial Services (Pune)
+- **Atrivo** – IT Services and IT Consulting (Sweden)
+- **Axience** – Business Consulting and Services (Mumbai)
+- **Dr. Mylissa's Medical Boutique** – Medical Practices (Florida) — *note: this appears to be an unrelated/algorithmic mismatch and is not a genuine peer.*
 
-## Similar companies listed by LinkedIn
-LinkedIn's "Similar Companies" section for ValueAdd lists the following firms — primarily financial services, investment management, and consulting players, mostly in Maharashtra, India [https://in.linkedin.com/company/valueadd-research-&-analytics-solutions]:
+*Caveat: LinkedIn's "Similar Companies" list mixes brokerages/asset managers with consulting firms and even unrelated entities, so it is a loose proxy rather than a curated competitor set.*
 
-1. **Tirthan Capital** — Investment Management (Pune, Maharashtra)
-2. **Systematix Group** — Financial Services (Mumbai, Maharashtra)
-3. **Equirus** — Financial Services (Mumbai, Maharashtra)
-4. **Ambit Private Limited** — Financial Services (Mumbai, Maharashtra)
-5. **Purnartha PMS** — Financial Services (Pune, Maharashtra)
-6. **Axience** — Business Consulting and Services (Mumbai, Maharashtra)
-7. **Dalal Street Investment Journal** — Investment Advice (Pune, Maharashtra)
-8. **Rezolve AddVenture – Pune** — IT Services and IT Consulting (Pune, Maharashtra)
-9. **Atrivo** — IT Services and IT Consulting (Danderyd, Stockholm County, Sweden)
-10. **Dr. Mylissa's Medical Boutique** — Medical Practices (Delray Beach, Florida) — *note: this appears to be an unrelated outlier in the LinkedIn list rather than a true peer.*
+## 2. Competitors Named by YNOS
+The startup database YNOS (https://www.ynos.in/startup/valueadd-research-and-analytics-solutions-315855) lists "possible competitors" as:
 
-## Additional context
-- On Glassdoor, ValueAdd is categorized within the **Management & Consulting** industry, and the page surfaces firms such as **S&P Global** and **AlphaSights** as comparison companies for compensation and benefits — broadly relevant to the research/analytics space, though shown in a "top companies near you" context rather than as direct competitors [https://www.glassdoor.com/Reviews/ValueAdd-India-Reviews-E3046235.htm].
-- The founder, Girish Bhise, previously worked at research/analytics and financial firms including **Morgan Stanley, Capgemini, Sutherland Global, Moody's Analytics, and Aranca** — Aranca in particular is a comparable research-outsourcing peer, mentioned as part of his background [https://www.greatcompanies.in/post/girish-bhise-founder-and-ceo-at-valueadd-research-and-analytics-solutions-llp].
+- **Beehive Capital** (2012)
+- **Brandessence Market Research and Consulting** (2017)
+- **Basic Roots** (2017)
+- Plus 7 others (not enumerated in the evidence)
 
-## Important caveats
-- Several other sources carrying the "ValueAdd" name in the evidence are **unrelated entities** (e.g., Value Add Real Estate Solutions, Value Add VC, ValueAdd UK R&D tax specialists, valueADD Austria M&A advisory, Value Add Network CRE, Value Add Management Consultants) and should **not** be treated as peers of ValueAdd Research and Analytics Solutions LLP.
-- The most reliable, directly-labeled "competitor" data comes from YNOS (Beehive Capital, Brandessence Market Research and Consulting, Basic Roots, and 7 others), while the LinkedIn list reflects algorithmically "similar" pages rather than confirmed competitors.
+## 3. Closely Comparable Research/Analytics Outsourcing Peers
+Beyond the directory listings, the evidence points to firms operating in the same boutique financial-research / KPO niche as ValueAdd:
 
-## Sources
+- **EliteAge Research & Analytics** – Delhi-based boutique business & financial research firm offering strategic research, valuation, and risk management to global clients in private equity and investment banking; explicitly a peer of the same size band (11–50 employees) (https://ensun.io/search/financial-research/india).
+- **TresVista Financial Services** – Global financial-sector research and investment services provider (financial modeling, industry research, portfolio management) (https://ensun.io/search/financial-research/india).
+- **CRISIL (CRISIL Global Research & Risk Solutions / S&P Global)** – High-end financial research, market intelligence, and risk analytics (https://ensun.io/search/financial-research/india).
+- **White Capers** – India-based outsourcing firm offering investment research, equity research, financial modeling, valuations, due diligence, and advisory — a direct service overlap with ValueAdd (http://www.whitecapers.com/financial-research-and-analysis.php).
+- **SmartAnalyst** – KPO provider in the financial-research outsourcing space serving the buy-side (https://www.integrity-research.com/trading-labor-on-wall-street-examining-india%E2%80%99s-kpo-space/).
+- **ICRA Analytics** – Financial research, fixed income/bond valuation, mutual fund research, and knowledge services (https://www.icraanalytics.com/).
+- **SG Analytics** – Market research and business insights provider, including primary/secondary and strategy-consulting research (https://www.sganalytics.com/blog/market-research-companies-in-india/).
+
+A direct comparison was also made (by Bounce Watch) between ValueAdd and **International Private Banking Systems**, though the two differ substantially in focus (wealth-management software vs. research outsourcing) (https://bouncewatch.com/compare/international-private-banking-systems/valueadd-research-and-analytics-solutions-llp).
+
+## 4. Larger KPO / Financial-Research Outsourcing Players (Broader Industry Peers)
+ValueAdd sits within the broader KPO and data-analytics-outsourcing industry, where larger competitors include firms repeatedly cited as leaders in financial research/analytics outsourcing:
+
+- **WNS** (Mumbai-based KPO in analytics, finance, risk) (https://www.timedoctor.com/blog/kpo-companies/)
+- **Boston Analytics** (investment research for investment banks, sovereign funds, PE firms) (https://www.timedoctor.com/blog/kpo-companies/)
+- **EXL (EXL Service Holdings)**, **Genpact**, **Mu Sigma**, **Fractal Analytics**, **Tiger Analytics**, **LatentView Analytics**, and the large consulting/IT firms (Accenture, TCS, Wipro, Capgemini, Cognizant, IBM, Deloitte) (https://www.mordorintelligence.com/industry-reports/data-analytics-outsourcing-market/companies; https://www.quora.com/What-are-the-top-10-analytics-firms-in-India)
+
+*Caveat: These are scaled enterprises far larger than ValueAdd (which has 11–50 employees) and are "peers" only in the sense of operating in the same broad industry, not as head-to-head boutique competitors.*
+
+---
+
+## Summary of Most Relevant Peers
+For a boutique financial-research outsourcing LLP like ValueAdd, the **most directly comparable peers** are: **EliteAge Research & Analytics, TresVista, White Capers, SmartAnalyst, Axience, and Brandessence Market Research & Consulting**, with **CRISIL/S&P Global Research, ICRA Analytics, and SG Analytics** as larger, more established competitors in overlapping research domains. Directory-driven lists (LinkedIn, YNOS) add financial-services and consulting names (Ambit, Equirus, Systematix, Beehive Capital, etc.), though some of these are brokerages/asset managers rather than research-outsourcing competitors, and at least one LinkedIn match (Dr. Mylissa's Medical Boutique) appears to be a data artifact.
+
+---
+
+### Sources
 1. https://in.linkedin.com/company/valueadd-research-&-analytics-solutions
-2. https://www.ynos.in/startup/valueadd-research-and-analytics-solutions-315855
-3. https://www.glassdoor.com/Reviews/ValueAdd-India-Reviews-E3046235.htm
-4. https://www.greatcompanies.in/post/girish-bhise-founder-and-ceo-at-valueadd-research-and-analytics-solutions-llp
+2. https://www.ambitionbox.com/overview/valueadd-research-and-analytics-solutions-overview
+3. https://www.greatcompanies.in/post/girish-bhise-founder-and-ceo-at-valueadd-research-and-analytics-solutions-llp
+4. https://www.ynos.in/startup/valueadd-research-and-analytics-solutions-315855
+5. https://bouncewatch.com/compare/international-private-banking-systems/valueadd-research-and-analytics-solutions-llp
+6. https://ensun.io/search/financial-research/india
+7. http://www.whitecapers.com/financial-research-and-analysis.php
+8. https://www.icraanalytics.com/
+9. https://www.sganalytics.com/blog/market-research-companies-in-india/
+10. https://www.integrity-research.com/trading-labor-on-wall-street-examining-india%E2%80%99s-kpo-space/
+11. https://www.timedoctor.com/blog/kpo-companies/
+12. https://www.mordorintelligence.com/industry-reports/data-analytics-outsourcing-market/companies
+13. https://www.quora.com/What-are-the-top-10-analytics-firms-in-India

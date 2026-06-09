@@ -3,7 +3,7 @@ from langchain_openai import ChatOpenAI
 
 load_dotenv()
 
-QUERY = "give me list of peer companies of ValueAdd Research And Analytics LLP"
+QUERY = "Give me list of peer companies of ValueAdd Research And Analytics Solutions LLP"
 
 # gpt-4o supports the built-in web_search tool via the Responses API.
 llm = ChatOpenAI(

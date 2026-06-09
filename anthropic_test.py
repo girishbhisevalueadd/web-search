@@ -9,7 +9,7 @@ from langchain_anthropic import ChatAnthropic
 
 load_dotenv()
 
-QUERY = "give me list of peer companies of ValueAdd Research And Analytics LLP"
+QUERY = "Give me list of peer companies of ValueAdd Research And Analytics Solutions LLP"
 
 # Claude Opus 4.8 is the latest, most capable model. web_search_20250305 is
 # Anthropic's server-side web search tool.

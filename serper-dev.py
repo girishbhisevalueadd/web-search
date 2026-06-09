@@ -8,7 +8,7 @@ from langchain.agents import create_agent
 
 load_dotenv()
 
-QUERY = "give me list of peer companies of ValueAdd Research And Analytics LLP"
+QUERY = "Give me list of peer companies of ValueAdd Research And Analytics Solutions LLP"
 
 serper = GoogleSerperAPIWrapper(
     serper_api_key=os.getenv("SERPER_DEV_API_KEY"),

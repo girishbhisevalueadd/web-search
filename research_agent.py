@@ -22,7 +22,7 @@ from pydantic import BaseModel, Field
 
 load_dotenv()
 
-from exa_test import Exa
+from exa_py import Exa
 from firecrawl import FirecrawlApp
 from langchain_anthropic import ChatAnthropic
 from langchain_community.tools import DuckDuckGoSearchResults  # noqa: F401
@@ -351,7 +351,7 @@ if __name__ == "__main__":
     import sys
 
     QUERY = " ".join(sys.argv[1:]) or (
-        "give me list of peer companies of ValueAdd Research And Analytics LLP"
+        "Give me list of peer companies of ValueAdd Research And Analytics Solutions LLP"
     )
 
     agent = build_agent()

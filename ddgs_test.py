@@ -7,7 +7,7 @@ from langchain.agents import create_agent
 
 load_dotenv()
 
-QUERY = "give me list of peer companies of ValueAdd Research And Analytics LLP"
+QUERY = "Give me list of peer companies of ValueAdd Research And Analytics Solutions LLP"
 
 wrapper = DuckDuckGoSearchAPIWrapper(region="wt-wt", max_results=10, safesearch="off")
 search = DuckDuckGoSearchResults(api_wrapper=wrapper, num_results=10, output_format="list")
